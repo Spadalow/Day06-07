@@ -1,0 +1,70 @@
+
+body {
+
+width: 800px;
+text-align: center;
+border: 0px;
+padding: 0;
+height: 900px;
+}
+
+
+title
+ {
+column-span: 3;
+align-content: center;
+font-size: large;
+color: coral;
+align-self: center;
+}
+img
+   {
+       align-content: center;
+       width: 400px;
+       height: 200px;
+       align-self: center;
+   }
+   table 
+   {
+    justify-content: center;
+        height: 900px; 
+        width: 800px;
+        vertical-align: middle;
+   }
+   tr 
+   {
+       align-content: center;
+       font-size:small;
+       color: rgb(7, 120, 226);
+       padding: 50px;
+   }
+   p
+   {
+       font-size: small;
+       align-self: auto;
+       color: black;
+       text-align: left;
+       font-stretch: condensed;
+   }
+   td
+   {
+       padding: 15px;
+   }
+  th
+  {
+      font-size: x-large;
+      color: coral;
+  }
+  p
+  {
+      font-stretch: extra-condensed;
+  }
+  span
+  {
+    align-content: center;
+  }
+  div 
+  {
+
+
+  }
